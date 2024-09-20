@@ -3,7 +3,7 @@
 ## Description
 This repository contains calculations based on the research paper by A. Acharya, V. Muthkani, A. DasGupta, and A. Jain, titled “An infill-based approach towards stiffer auxetic lattices: Design and study of enhanced in-plane elastic properties.” The aim is to replicate and analyze the results presented in the study.
 
-![Picture1](https://github.com/user-attachments/assets/23e4a6b1-8a82-4249-9f50-113879f43426)
+![Picture1](https://github.com/user-attachments/assets/7cd40b44-c590-4bec-b8d9-79a47bee6dba)
 
 ## Citation
 A. Acharya, V. Muthkani, A. DasGupta, and A. Jain, “An infill-based approach towards stiffer auxetic lattices: Design and study of enhanced in-plane elastic properties,” *Mechanics of Materials*, vol. 188, Jan. 2024, doi: [10.1016/j.mechmat.2023.104849](https://doi.org/10.1016/j.mechmat.2023.104849).
