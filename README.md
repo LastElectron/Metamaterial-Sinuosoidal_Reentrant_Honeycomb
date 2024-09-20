@@ -43,8 +43,3 @@ This work is licensed under the MIT License.
   - sympy
   - scipy
 
-## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/LastElectron/repository.git
-
