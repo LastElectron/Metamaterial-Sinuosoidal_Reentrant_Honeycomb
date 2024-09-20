@@ -1,4 +1,4 @@
-# Sinuosoidal Reentrant Honeycomb Analysis
+# Sinusoidal Reentrant Honeycomb Analysis
 
 ## Description
 This repository contains calculations based on the research paper by A. Acharya, V. Muthkani, A. DasGupta, and A. Jain, titled “An infill-based approach towards stiffer auxetic lattices: Design and study of enhanced in-plane elastic properties.” The aim is to replicate and analyze the results presented in the study.
