@@ -6,6 +6,9 @@ This repository contains calculations based on the research paper by A. Acharya,
 ## Citation
 A. Acharya, V. Muthkani, A. DasGupta, and A. Jain, “An infill-based approach towards stiffer auxetic lattices: Design and study of enhanced in-plane elastic properties,” *Mechanics of Materials*, vol. 188, Jan. 2024, doi: [10.1016/j.mechmat.2023.104849](https://doi.org/10.1016/j.mechmat.2023.104849).
 
+
+![Picture1](https://github.com/user-attachments/assets/23e4a6b1-8a82-4249-9f50-113879f43426)
+
 ## Prerequisites
 - Python 3.x
 - Jupyter Notebook
