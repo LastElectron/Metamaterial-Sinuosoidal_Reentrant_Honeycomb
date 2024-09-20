@@ -20,4 +20,4 @@ A. Acharya, V. Muthkani, A. DasGupta, and A. Jain, “An infill-based approach t
 
 
 ## View the Notebook (nbviewer)
-You can view the Jupyter Notebook online using nbviewer: [View Notebook](https://nbviewer.org/github/LastElectron/Metamaterial-Sinusoidal_Reentrant_Honeycomb/blob/9853ff5245882f8e7a90fd01f61793bc016059b8/SRH_Analytical.ipynb)
+You can view the Jupyter Notebook online using nbviewer: [View Notebook](https://nbviewer.org/github/LastElectron/Metamaterial-Sinusoidal_Reentrant_Honeycomb/blob/ebb0ef7ff434d193ab5160afc783ac8d900ec94d/SRH_Analytical.ipynb)
